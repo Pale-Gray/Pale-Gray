@@ -1,6 +1,1 @@
-
-***Java?***
-
-**Hi I'm Pale_Gray**
-
-Java is my main language, but I'm trying others like C# ***(Because its so similar to Java lol)***
+I used to use Java but now I use C# and I don't think i'll go back
